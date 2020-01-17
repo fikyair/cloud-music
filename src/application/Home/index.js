@@ -25,5 +25,3 @@ function Home(props) {
 export default React.memo(Home);
 
 
-
-
